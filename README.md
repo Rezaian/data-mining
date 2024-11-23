@@ -1,1 +1,3 @@
-# data-mining
+# Data Mining for Climate Science
+
+This repository contains course materials and resources for Data Mining in Climate Science. The content focuses on practical data mining techniques applied to climate datasets, utilizing essential Python libraries like Xarray for labeled multi-dimensional arrays, NumPy for numerical computations, and xarray and netCDF4 for handling climate data formats. Through these materials, students will learn to process, analyze, and extract meaningful patterns from climate datasets while gaining hands-on experience with real-world atmospheric and oceanographic data. The course emphasizes both theoretical foundations and practical implementation using modern scientific computing tools.
